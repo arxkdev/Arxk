@@ -5,3 +5,6 @@
 
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumarion&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+# Weekly Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kumarion&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
