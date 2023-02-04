@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&duration=2500&pause=1000&width=300&height=70&lines=Kurai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=40&duration=2500&pause=1000&width=300&height=70&lines=Kurai)]
 
 # Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumarion&show_icons=true&theme=transparent)
