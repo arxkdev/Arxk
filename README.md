@@ -10,4 +10,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kumarion&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 # Achivements
-<img src = "https://metrics.lecoq.io/Kumarion?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=US%2FNewYork" width = "100%"/>
+![Achivements](https://metrics.lecoq.io/Kumarion?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=US%2FNewYork)
