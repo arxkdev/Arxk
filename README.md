@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kurai)](https://git.io/typing-svg)
+
 # Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumarion&show_icons=true&theme=transparent)
 
